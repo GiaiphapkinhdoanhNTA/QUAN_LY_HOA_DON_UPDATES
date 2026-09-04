@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-09-04",
+  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.0.0/Setup_QuanLyHoaDonDienTu_v1.0.0.exe",
+  "changelog": [
+    "Phiên bản thương mại chính thức 1.0.0",
+    "Đồng bộ hóa đơn tự động từ Cơ quan Thuế",
+    "Quét và bóc tách hóa đơn từ email tự động",
+    "Hệ thống bản quyền Offline Node-Locked bảo mật cao"
+  ],
+  "mandatory": false
+}
