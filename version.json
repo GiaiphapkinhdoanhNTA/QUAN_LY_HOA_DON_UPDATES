@@ -1,9 +1,9 @@
 {
   "latest_version": "1.0.1",
-  "release_date": "2026-09-07",
-  "min_app_version": "1.0.0",
+  "release_date": "07/09/2026",
+  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.0.1:\n- Tối ưu hóa & Chuẩn hóa Header HTTP (User-Agent RFC 7230) chống lỗi mã hóa mạng.\n- Nâng cấp cơ chế Kiểm tra Cập nhật thông minh (Auto-Update Service).\n- Cải tiến hiệu năng biên dịch mã máy C/C++ chống dịch ngược và bảo mật bản quyền.\n- Nâng cao tính ổn định tổng thể cho hệ thống.",
+  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.0.1/Setup_QuanLyHoaDonDienTu_v1.0.1.exe",
+  "sha256": "51864c812c1d16f68e5fb1efadd5e278f12b3608885dd96d2b5004c9b2065304",
   "is_critical": false,
-  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.0.0/Setup_QuanLyHoaDonDienTu_v1.0.0.exe",
-  "sha256": "",
-  "release_notes": "Phiên bản phát hành chính thức đầu tiên v1.0.0.\n- Tích hợp đầy đủ tính năng đồng bộ hóa đơn CQT và Email.\n- Hỗ trợ báo cáo và kiểm tra bản quyền offline."
+  "min_app_version": "1.0.0"
 }
