@@ -1,9 +1,9 @@
 {
   "latest_version": "1.0.1",
   "release_date": "07/09/2026",
-  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.0.1:\n- Tối ưu hóa & Chuẩn hóa Header HTTP (User-Agent RFC 7230) chống lỗi mã hóa mạng.\n- Nâng cấp cơ chế Kiểm tra Cập nhật thông minh (Auto-Update Service).\n- Cải tiến hiệu năng biên dịch mã máy C/C++ chống dịch ngược và bảo mật bản quyền.\n- Nâng cao tính ổn định tổng thể cho hệ thống.",
+  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.0.1:\n- Khắc phục triệt để lỗi nạp và nhận diện CAPTCHA Tổng cục Thuế (GDT) & nhà cung cấp trên Windows.\n- Tích hợp động cơ ddddocr nhận diện tự động Captcha CQT dạng vector SVG và raster PNG in-memory.\n- Tối ưu hóa & Chuẩn hóa Header HTTP (User-Agent RFC 7230) chống lỗi mã hóa mạng.\n- Nâng cấp cơ chế Kiểm tra Cập nhật thông minh (Auto-Update Service).\n- Cải tiến hiệu năng biên dịch mã máy C/C++ chống dịch ngược và bảo mật bản quyền.\n- Nâng cao tính ổn định tổng thể cho hệ thống.",
   "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.0.1/Setup_QuanLyHoaDonDienTu_v1.0.1.exe",
-  "sha256": "51864c812c1d16f68e5fb1efadd5e278f12b3608885dd96d2b5004c9b2065304",
+  "sha256": "0bc3afb1589d7ff360b54603d0cc99984094e35d5cdf855937c335b6f5c7b45f",
   "is_critical": false,
   "min_app_version": "1.0.0"
 }
