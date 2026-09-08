@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.1",
-  "release_date": "07/09/2026",
-  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.0.1:\n- Khắc phục triệt để lỗi nạp và nhận diện CAPTCHA Tổng cục Thuế (GDT) & nhà cung cấp trên Windows.\n- Tích hợp động cơ ddddocr nhận diện tự động Captcha CQT dạng vector SVG và raster PNG in-memory.\n- Tối ưu hóa & Chuẩn hóa Header HTTP (User-Agent RFC 7230) chống lỗi mã hóa mạng.\n- Nâng cấp cơ chế Kiểm tra Cập nhật thông minh (Auto-Update Service).\n- Cải tiến hiệu năng biên dịch mã máy C/C++ chống dịch ngược và bảo mật bản quyền.\n- Nâng cao tính ổn định tổng thể cho hệ thống.",
-  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.0.1/Setup_QuanLyHoaDonDienTu_v1.0.1.exe",
-  "sha256": "0bc3afb1589d7ff360b54603d0cc99984094e35d5cdf855937c335b6f5c7b45f",
+  "latest_version": "1.0.2",
+  "release_date": "08/09/2026",
+  "release_notes": "### 🌟 PHIÊN BẢN ĐỘT PHÁ V1.0.2 - TỐI ƯU HÓA NGHIỆP VỤ & NÂNG TẦM TRẢI NGHIỆM\n\nPhần mềm **Quản Lý Hóa Đơn Điện Tử v1.0.2** mang đến những nâng cấp mang tính đột phá về hiệu năng, độ ổn định và trải nghiệm người dùng:\n\n✨ **1. SẮP XẾP BẢNG DỮ LIỆU THÔNG MINH (SMART MULTI-ROLE SORTING)**\n- Sắp xếp tức thì số tiền, ngày tháng hóa đơn, số hóa đơn từ bé đến lớn hoặc ngược lại chỉ với 1 cú click.\n- Chuẩn hóa giải thuật sắp xếp chuỗi Tiếng Việt A-Z chuẩn xác 100% (An < Ánh < Bình < Cường < Đức).\n- Tự động ưu tiên gom các dòng rỗng và giữ hàng tổng cộng luôn cố định ở chân bảng.\n\n⚡ **2. TẢI XML GỐC HÓA ĐƠN MÁY TÍNH TIỀN (MTT) TỪ TỔNG CỤC THUẾ**\n- Đột phá công nghệ tự động chuẩn hóa ký hiệu hóa đơn MTT và giải nén in-memory file XML gốc trực tiếp từ CQT.\n- Chấm dứt tình trạng chỉ tải được bản HTML chi tiết, phục vụ kê khai và hạch toán thuế đầy đủ tính pháp lý.\n\n🤖 **3. NHẬN DIỆN CAPTCHA SIÊU TỐC BẰNG TRÍ TUỆ NHÂN TẠO (AI OCR)**\n- Động cơ AI thế hệ mới tự động xử lý ảnh vector SVG sang PNG và nhận diện Captcha CQT trong tích tắc.\n- Giúp đồng bộ hóa đơn hàng loạt mượt mà, tiết kiệm đến 90% thời gian đăng nhập thủ công.\n\n🛡️ **4. BIÊN DỊCH MÃ MÁY C/C++ & BẢO MẬT DOANH NGHIỆP CẤP CAO**\n- Toàn bộ nhân xử lý được biên dịch thành mã máy C/C++ Standalone chống dịch ngược, tăng tốc độ xử lý dữ liệu lớn.\n- Tự động tích hợp chứng chỉ bảo mật SSL HTTPS (cacert.pem), đảm bảo kết nối thuế và tải bản cập nhật an toàn tuyệt đối.\n\n🔄 **5. BỘ CÀI ĐẶT THƯƠNG MẠI THÔNG MINH**\n- Tự động phát hiện và đóng phiên bản cũ khi cập nhật đè, bảo toàn 100% cơ sở dữ liệu đã có.\n\n📞 *Hotline/Zalo hỗ trợ kỹ thuật: 0896.237.088 - Tác giả: Hồ Duy Viễn*",
+  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.0.2/Setup_QuanLyHoaDon_v1.0.2.exe",
+  "sha256": "f831d22a098e035b96563e72709501f5fb4d3139dcdc5efe7bca6df33861a8d8",
   "is_critical": false,
   "min_app_version": "1.0.0"
 }
