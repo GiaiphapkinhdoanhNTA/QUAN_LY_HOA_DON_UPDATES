@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.1.0",
-  "release_date": "24/09/2026",
-  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.1.0:\n- Tích hợp phân hệ mới \"Tờ khai thuế\": Kết nối trực tiếp Cổng Dịch vụ công & Thuế điện tử (DVC/ETAX), tra cứu, tải tự động tờ khai XML, thông báo tiếp nhận/chấp nhận và tài liệu đính kèm theo cấu trúc lưu trữ chuẩn hóa.\n- Nâng cấp hiển thị trực quan Hóa đơn Điều chỉnh / Thay thế: Tô màu pastel nhẹ phân biệt trên bảng dữ liệu, tự động bóc tách và thể hiện thông tin Hóa đơn liên quan trên bản thể hiện XML.\n- Đồng bộ hóa toàn diện phân hệ Tờ khai thuế vào Tab \"Công ty\" .\n- Thêm tính năng ghép nhiều hóa đơn thành 1 file PDF thuận tiện in ấn và gửi dữ liệu.",
-  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.1.0/QuanLyHoaDonDienTu_Setup_v1.1.0_x64.exe",
-  "sha256": "daadf8166d7df7443ba3dc6dac1dfce27f95f1c6ec3338a7c683803b33c909cd",
+  "latest_version": "1.1.1",
+  "release_date": "25/09/2026",
+  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.1.1:\n- Nâng cấp Tab \"Kiểm tra thông tin NNT\": Kiểm tra tình trạng người nộp thuế hàng loạt\n- Hoàn thiện Tab \"Tờ khai thuế\": Thay đổi tên file XML tờ khai khoa học hơn.\n- Tối ưu hóa hiệu năng giao diện.",
+  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.1.1/QuanLyHoaDonDienTu_Setup_v1.1.1_x64.exe",
+  "sha256": "5881b7fd5e239d5a20f3646d1d34eb0b42de726432cb7dd0d5fb4a6ea35454b9",
   "is_critical": false,
   "min_app_version": "1.0.0"
 }
