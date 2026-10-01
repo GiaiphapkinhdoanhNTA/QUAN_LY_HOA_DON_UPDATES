@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.1.1",
-  "release_date": "25/09/2026",
-  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.1.1:\n- Nâng cấp Tab \"Kiểm tra thông tin NNT\": Kiểm tra tình trạng người nộp thuế hàng loạt\n- Hoàn thiện Tab \"Tờ khai thuế\": Thay đổi tên file XML tờ khai khoa học hơn.\n- Tối ưu hóa hiệu năng giao diện.",
-  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.1.1/QuanLyHoaDonDienTu_Setup_v1.1.1_x64.exe",
-  "sha256": "5881b7fd5e239d5a20f3646d1d34eb0b42de726432cb7dd0d5fb4a6ea35454b9",
+  "latest_version": "1.2.0",
+  "release_date": "01/10/2026",
+  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.0:\n- Sub-tab \"Quản lý giấy nộp tiền thuế\": Bổ sung chức năng quản lý giấy nộp tiền thuế.\n- Sub-tab \"Tổng hợp tờ khai\": Bổ sung báo cáo Tổng hợp tờ khai 01/GTGT và 05/KK-TNCN, đặc biệt Bổ sung 02 dòng thống kê đối chiếu số thuế đã nộp và số tiền nộp thừa/thiếu dưới cùng bảng.\n- Bổ sung tải PDF gốc các nhà cung cấp M invoice, T-van Hilo, Thái Sơn, Softdream easy Inv,....",
+  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.0/QuanLyHoaDonDienTu_Setup_v1.2.0.exe",
+  "sha256": "26df8ea138280be99cc91a759ec185dcf4c44f26cafc1ec0b261f53e4beee73a",
   "is_critical": false,
   "min_app_version": "1.0.0"
 }
