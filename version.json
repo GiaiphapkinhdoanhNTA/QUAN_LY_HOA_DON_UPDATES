@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.2.0",
-  "release_date": "01/10/2026",
-  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.0:\n- Sub-tab \"Quản lý giấy nộp tiền thuế\": Bổ sung chức năng quản lý giấy nộp tiền thuế.\n- Sub-tab \"Tổng hợp tờ khai\": Bổ sung báo cáo Tổng hợp tờ khai 01/GTGT và 05/KK-TNCN, đặc biệt Bổ sung 02 dòng thống kê đối chiếu số thuế đã nộp và số tiền nộp thừa/thiếu dưới cùng bảng.\n- Bổ sung tải PDF gốc các nhà cung cấp M invoice, T-van Hilo, Thái Sơn, Softdream easy Inv,....",
-  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.0/QuanLyHoaDonDienTu_Setup_v1.2.0.exe",
-  "sha256": "26df8ea138280be99cc91a759ec185dcf4c44f26cafc1ec0b261f53e4beee73a",
+  "latest_version": "1.2.1",
+  "release_date": "02/10/2026",
+  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.1:\n- Mở rộng & nâng cấp tính năng \"Tải PDF gốc\": Tích hợp toàn diện các cổng tra cứu nhà cung cấp Thái Sơn E-Invoice (bên bán Honda Việt Nam eiv.honda.com.vn), CyberLotus (xCyber/CyberBill), KK VAT, VETC và Sapo-Invoice.\n- Sửa lỗi nhảy ID máy.",
+  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.1/QuanLyHoaDonDienTu_Setup_v1.2.1.exe",
+  "sha256": "3645d00323c06a0367862e2ebabc9ac7df390589cda0a0a7764676c21bdb8218",
   "is_critical": false,
   "min_app_version": "1.0.0"
 }
