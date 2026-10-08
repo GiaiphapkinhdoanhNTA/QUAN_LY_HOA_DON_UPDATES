@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.2.1",
-  "release_date": "02/10/2026",
-  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.1:\n- Mở rộng & nâng cấp tính năng \"Tải PDF gốc\": Tích hợp toàn diện các cổng tra cứu nhà cung cấp Thái Sơn E-Invoice (bên bán Honda Việt Nam eiv.honda.com.vn), CyberLotus (xCyber/CyberBill), KK VAT, VETC và Sapo-Invoice.\n- Sửa lỗi nhảy ID máy.",
-  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.1/QuanLyHoaDonDienTu_Setup_v1.2.1.exe",
-  "sha256": "3645d00323c06a0367862e2ebabc9ac7df390589cda0a0a7764676c21bdb8218",
+  "latest_version": "1.2.2",
+  "release_date": "09/10/2026",
+  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.2:\n- Bổ sung gợi ý tờ khai 01/GTGT và Phụ lục 142.\n- Tích hợp ô tìm kiếm nhanh theo tên công ty và mã số thuế tại Tab Quản lý Công ty và Tab Đăng nhập.\n- Bổ sung tải hóa đơn gốc của NCC hóa đơn SmartSign Inv | Hóa đơn của Petrolimex và Xanh SM.\n- Thay đổi một sô giao diện phần mềm.",
+  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.2/QuanLyHoaDonDienTu_Setup_v1.2.2.exe",
+  "sha256": "674a2e4a9714df4971c87da69b46900e4c6aaee48e79221492fec9fd61169301",
   "is_critical": false,
   "min_app_version": "1.0.0"
 }
