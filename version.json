@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.2.2",
-  "release_date": "09/10/2026",
-  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.2:\n- Bổ sung gợi ý tờ khai 01/GTGT và Phụ lục 142.\n- Tích hợp ô tìm kiếm nhanh theo tên công ty và mã số thuế tại Tab Quản lý Công ty và Tab Đăng nhập.\n- Bổ sung tải hóa đơn gốc của NCC hóa đơn SmartSign Inv | Hóa đơn của Petrolimex và Xanh SM.\n- Thay đổi một sô giao diện phần mềm.",
-  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.2/QuanLyHoaDonDienTu_Setup_v1.2.2.exe",
-  "sha256": "674a2e4a9714df4971c87da69b46900e4c6aaee48e79221492fec9fd61169301",
+  "latest_version": "1.2.3",
+  "release_date": "14/10/2026",
+  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.3 (Nhà phát hành: HDV App):\n- Nâng cấp tính năng Tải PDF gốc: Bổ sung tải hóa đơn của Grab.\n- Chuẩn hóa cột \"Hình thức TT\" (Hình thức thanh toán) tại Tab Báo cáo.\n- Thêm lưu ý tải file XML của Hóa đơn khi sử dụng tab Báo cáo.\n- Hoàn thiện phần mềm tương ứng với thay đổi của trang hoadondientu sau nâng cấp.\n- Bổ sung khối \"💡 Hướng dẫn chung\" trong tab Hướng dẫn.",
+  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.3/QuanLyHoaDonDienTu_Setup_v1.2.3.exe",
+  "sha256": "90dff6565cc37dafd9e8676ee6be79b64788c14cf32347f9a917d2fc4990e5e9",
   "is_critical": false,
   "min_app_version": "1.0.0"
 }
