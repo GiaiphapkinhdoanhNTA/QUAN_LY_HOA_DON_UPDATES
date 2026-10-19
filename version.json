@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.2.5",
+  "latest_version": "1.2.6",
   "release_date": "19/10/2026",
-  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.5 (Nhà phát hành: HDV App):\n- Bổ sung Tải PDF gốc của: Vietcombank, BIDV, AEON, Thế Giới Di Động, Bách Hóa Xanh, một số hóa đơn VNPT.\n- Cập nhật Giao diện & Trạng thái Hóa đơn: Tự động highlight nổi bật dòng Hóa đơn Thay thế/Điều chỉnh và Hóa đơn Hủy/Bị xóa bỏ do bị thay thế tại cột Trạng thái hóa đơn.\n- Điều chỉnh thời hạn trải nghiệm (bản dùng thử): Từ 3 ngày xuống còn 1 ngày.",
-  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.5/QuanLyHoaDonDienTu_Setup_v1.2.5.exe",
+  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.6 (Nhà phát hành: HDV App):\n- Bổ sung Tải PDF gốc của: |1.2.5| Vietcombank, BIDV, AEON, Thế Giới Di Động, Bách Hóa Xanh, một số hóa đơn VNPT |1.2.6| Agribank, BKAV.\n- Cập nhật Giao diện & Trạng thái Hóa đơn: Tự động highlight nổi bật dòng Hóa đơn Thay thế/Điều chỉnh và Hóa đơn Hủy/Bị xóa bỏ do bị thay thế tại cột Trạng thái hóa đơn.\n- Bổ sung giao diện chọn kỳ mặc định trong tab Hóa đơn bán ra/mua vào.\n- Điều chỉnh thời hạn trải nghiệm (bản dùng thử): Từ 3 ngày xuống còn 1 ngày.",
+  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.6/Setup_QuanLyHoaDonDienTu_v1.2.6.exe",
   "sha256": "af7eb4d54650ce3ad0a673e9588f864311f09d0da9406929265ed123ef01672d",
   "is_critical": false,
   "min_app_version": "1.0.0"
