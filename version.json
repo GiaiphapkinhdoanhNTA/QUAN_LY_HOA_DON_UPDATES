@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.2.7",
-  "release_date": "25/10/2026",
-  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.7 (Nhà phát hành: HDV App):\n- Tích hợp Tab mới 'Tự động tải hóa đơn & Hẹn giờ' (Auto-Download & Scheduler): Hỗ trợ lập lịch chạy hàng ngày hoặc tải ngay lập tức khép kín từ Đăng nhập -> Tra cứu -> Tải XML -> Tải PDF gốc cho nhiều công ty liên tục.\n- Đồng bộ với hệ thống mới của trang hóa đơn điện tử và dịch vụ công.\n- Bổ sung tải PDF của Vin Invoice, Cty Giao thông số (Epass), Tân cảng Sài Gòn.",
-  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.7/Setup_QuanLyHoaDonDienTu_v1.2.7.exe",
-  "sha256": "0a23cf25011a4be52cfa9ba55311aad8a9f7e56022df5492247de1de4770d01b",
+  "latest_version": "1.2.8",
+  "release_date": "01/11/2026",
+  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.8 (Nhà phát hành: HDV App):\n- Tăng số khoản thời gian tải hóa đơn từ MTT từ 10 ngày lên 30 ngày tương đồng với đổi mới của trang hóa đơn điện tử.\n- Tách nội dung tải hóa đơn thông thường (hóa đơn có mã và không mã) và hóa đơn từ MTT ra để hóa đơn thông thường tránh bị ảnh hưởng khi hóa đơn MTT bị lỗi (Lưu ý bình thường là chọn tất cả 2 loại hóa đơn để tải).\n- Nâng cấp Tab tải tự động và hẹn giờ: Thêm cơ chế đề nghị tải lại khoản thời gian tải bị lỗi do máy chủ CQT.",
+  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.8/Setup_QuanLyHoaDonDienTu_v1.2.8.exe",
+  "sha256": "cd9fbd57c7a2eab9f322d4bdc5bcb1bbc9814801adf02f42fabe841230fae3c5",
   "is_critical": false,
   "min_app_version": "1.0.0"
 }
