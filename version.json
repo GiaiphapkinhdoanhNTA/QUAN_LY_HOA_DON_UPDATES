@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.2.8",
-  "release_date": "01/11/2026",
-  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.8 (Nhà phát hành: HDV App):\n- Tăng số khoản thời gian tải hóa đơn từ MTT từ 10 ngày lên 30 ngày tương đồng với đổi mới của trang hóa đơn điện tử.\n- Tách nội dung tải hóa đơn thông thường (hóa đơn có mã và không mã) và hóa đơn từ MTT ra để hóa đơn thông thường tránh bị ảnh hưởng khi hóa đơn MTT bị lỗi (Lưu ý bình thường là chọn tất cả 2 loại hóa đơn để tải).\n- Nâng cấp Tab tải tự động và hẹn giờ: Thêm cơ chế đề nghị tải lại khoản thời gian tải bị lỗi do máy chủ CQT.",
-  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.8/Setup_QuanLyHoaDonDienTu_v1.2.8.exe",
-  "sha256": "cd9fbd57c7a2eab9f322d4bdc5bcb1bbc9814801adf02f42fabe841230fae3c5",
+  "latest_version": "1.2.9",
+  "release_date": "18/11/2026",
+  "release_notes": "### 🚀 Điểm mới trong phiên bản 1.2.9 (Nhà phát hành: HDV App):\n- Bổ sung hỗ trợ tải PDF gốc cho nhiều nhà cung cấp mới: FAST (Mitsubishi), VietInvoice, THACO, Lotte Mart, Điện máy chợ lớn, Petro Hà Tây.\n- Đồng bộ tải PDF gốc của Honda.",
+  "download_url": "https://github.com/GiaiphapkinhdoanhNTA/QUAN_LY_HOA_DON_UPDATES/releases/download/v1.2.9/Setup_QuanLyHoaDonDienTu_v1.2.9.exe",
+  "sha256": "950504094bd87e393d7de7b4b41b3368d26bd189d2478e0f7b1a07077deb0e64",
   "is_critical": false,
   "min_app_version": "1.0.0"
 }
